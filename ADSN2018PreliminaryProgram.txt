@@ -1,0 +1,38 @@
+ADSN 2018 Preliminary Program
+
+October 8
+
+Wider view of Assuarance
+
+15:50-16:20
+1. Keynote Speech, T. Tsuchiya, How a classical computer science subject 
+can help systems assurance
+
+16:20-17:00
+2. Masahiro Nishi, Haruki Kozato, Yusuka Ota and Koichi Shin, 
+Development of Disaster Monitoring Techniques in the Grass-root 
+Information Distribution System for Detecting Landslide Dangers (20min)
+
+3. Toru Sakon and Yukikazu Nakamoto, Structured Policy based Design 
+Method for Cybersecurity of Automotive E/E System (20min)
+ 
+17:00-17:05
+Break (5min)
+
+Close look at network assuarnce
+
+17:05-17:30
+4.Invited Talk, T. Otani, T. Kitahara and T. Ogishi, Mobile network role 
+for connected car era
+
+17:30-18:30
+5.Y. Minami, N. Kajikawa, R. Saka, Y. Nakao, E. Kohno and Y. Kakuda, 
+Arbitration-based Deadlock Mitigation Mechanism for Fast Connection 
+Establishment in Autonomous Self-organized Bluetooth MANETs (20min)
+
+6. H. Toyota, S. Inoue and Y. Kakuda, A proposal and evaluation of 
+mobility model which derives various node mobility scenarios    (20min)
+
+7. J. Funasaka, Adaptability Enhancement for Progressive Download 
+Methods Based on Timer-Driven Requesting Schemes Using Multiple TCP 
+Flows on Multiple Paths(20min)
