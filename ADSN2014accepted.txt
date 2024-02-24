@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------------------------
+                       A list of accepted papers for ADSN 2014
+-------------------------------------------------------------------------------------------------
+
+Hiroyasu Obata, Ayaka Momota, Junichi Funasaka and Kenji Ishida:
+A Control Method of Guaranteeing Throughput for TCP Communication
+Considering Handover over WLAN
+
+Hyungjae Jung and Hidenori Nakazato: Dynamic Scheduling for Speculative
+Execution to Improve MapReduce Performance in Heterogeneous Environment
+
+Reza Hajisheykhi, Ali Ebnenasir and Sandeep Kulkarni: Analysis of Permanent
+Faults in Transaction Level SystemC Model
+
+Eitaro Kohno, Anri Kimura and Yoshiaki Kakuda: On Parameters for the
+Secure Dispersed Data Transfer Scheme Using a Multipath Routing Method
+
+Kaliappa Ravindran: Model-based Engineering Techniques for QoS Auditing in
+Distributed Cloud Services
+
+Ryo Iguchi and Yoshifumi Manabe: An Efficient Edge-Based Authentication
+for Network Coding Against Entropy Attacks
+
+Shimpei Yamada and Yukikazu Nakamoto: Protection Mechanism in
+Privileged Memory Space for Embedded Systems
+
+Jorge Cobb: Preserving Routes during Fast Convergence
+
+  (Invited) António Casimiro, Oscar Morales-Ponce, Thomas Petig and Elad
+M. Schiller: Vehicular Coordination via a Safety Kernel in the Gulliver
+Test-bed
+
