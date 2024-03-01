@@ -1,0 +1,90 @@
+
+=========================================================================
+Third International Workshop on Assurance in Distributed Systems and Networks 
+(ADSN 2004)
+=========================================================================
+
+Tuesday, March 23
+9:20 - 9:30
+------------------------------------------------------
+Opening
+------------------------------------------------------
+
+
+9:30 - 11:00
+------------------------------------------------------
+Session 1  Mobile and Ad Hoc
+Chair: Kenji Ishida, Hiroshima City University
+------------------------------------------------------
+
+Performance Study of Node Placement in Sensor Networks
+    M. Ishizuka and M. Aida
+TDMA Service for Sensor Networks
+    S. S. Kulkarni and M. (U.) Arumugam
+An Adaptive Automobile Control System Using Scheduling by Imprecise 
+Computation and Multiagent-based Traffic Information Exchange and Its Experimental 
+Evaluation
+    T. Oka, S. Inoue, and Y. Kakuda
+
+
+11:00 - 11:30
+------------------------------------------------------
+Coffee Break
+------------------------------------------------------
+
+
+11:30 -13:00
+------------------------------------------------------
+Session 2  System Security
+Chair: Dimitrios N. Serpanos, University of Patras
+------------------------------------------------------
+
+An Effective Active Attack on Fiat-Shamir Cryptosystems
+    A. G. Voyiatzis and D. N. Serpanos
+Deductive Verification of Probabilistic Real-Time Systems
+    S. Yamane
+Finding a Recovery Line in Uncoordinated Checkpointing
+    M. Ohara, M. Arai, S. Fukumoto, and K. Iwasaki
+
+
+13:00 - 14:00
+------------------------------------------------------
+Lunch
+------------------------------------------------------
+
+
+14:00 - 15:00
+------------------------------------------------------
+Session 3 Networking
+Chair: Yasushi Wakahara, University of Tokyo
+------------------------------------------------------
+
+Heterogeneous Building Automation and IP Networks Management
+    R. Giladi
+Diffusion-Type Autonomous Decentralized Flow Control for Open Networks
+    C. Takano and  M. Aida
+Improvements on Block Size Control Method for Adaptive Parallel Downloading
+    J. Funasaka, K. Nagayasu, and K. Ishida
+
+
+15:00 - 15:30
+------------------------------------------------------
+Coffee Break
+------------------------------------------------------
+
+
+15:30 - 17:30
+------------------------------------------------------
+Session 4  Information Distribution
+Chair: Sandeep Kulkarni, Michigan State University
+------------------------------------------------------
+
+Agent-Based Rating Oriented Information Provision and Reallocation for 
+High-Assurance in Open and Dynamic Environments
+    X. Lu, Y. Zhou, K. Mori, R. Takanuki and Y. Kuba
+Autonomous Distributed Service System Implementation
+    K. Iqbal, H. F. Ahmad, A. Ali, H. Suguri, and M. Jamshed
+Autonomous and Proactive Adjustment of Update Allowance in Autonomous 
+Decentralized Database System
+    I. Kaji
+
